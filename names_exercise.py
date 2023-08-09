@@ -11,6 +11,7 @@ def print_names(names):
 def main():
     names = [
         # Add name here
+        "Volha Sakharevich"
     ]
 
     print_names(names)
